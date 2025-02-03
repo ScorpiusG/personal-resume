@@ -1,0 +1,19 @@
+html
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-lightblue
+{
+    background-color: cornflowerblue;
+}
+
+.bg-blue
+{
+    background-color: blue;
+}
+
+.bg-darkblue
+{
+    background-color: darkblue;
+}
